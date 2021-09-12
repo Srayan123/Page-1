@@ -1,0 +1,17 @@
+.WAMLC {
+    font-size: 15px;
+}
+.head {
+    text-decoration: underline orangered ;
+    text-underline-offset: 15px;
+}
+.end {
+    color: orangered;
+}
+p {
+    color: gray;
+}
+.main {
+    margin-left: 20%;
+    margin-top: 7%;
+}
